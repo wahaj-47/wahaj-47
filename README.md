@@ -1,10 +1,19 @@
-<html >
-<head>
-<!-- <script 
-src="snake.js"></script> -->
-</head>
-<body onload="init()">
-<canvas width="300" height="300"></canvas>
+### Hi there 👋, my name is Wahaj
 
-<h4 >Hey there!</h2>
-<h1 align="center">My name is Wahaj</h1></body></html>
+![](surf.gif)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: REACT / REACT NATIVE / JS / HTML / CSS
+
+- 🌱 I’m currently learning Unity 3D
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wahaj-47) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/wahaj.hussain.750) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/whaj47/)
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+
+![GitHub metrics](https://metrics.lecoq.io/wahaj-47)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wahaj-47)
+
+![Profile views](https://gpvc.arturio.dev/wahaj-47)
