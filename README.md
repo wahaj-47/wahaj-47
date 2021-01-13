@@ -1,5 +1,5 @@
 <body align="center">
-Hi there 👋, my name is <h1>Wahaj</h1>
+Hi there 👋, my name is <h1 align="center">Wahaj</h1>
 
 ![](snake.gif)
 
