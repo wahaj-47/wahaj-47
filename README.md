@@ -1,4 +1,4 @@
-<body align="center">
+<div align="center">
 Hi there 👋, my name is <h1 align="center">Wahaj</h1>
 
 ![](snake.gif)
@@ -17,4 +17,4 @@ Skills: REACT / REACT NATIVE / JS / HTML / CSS
 
 ![Profile views](https://gpvc.arturio.dev/wahaj-47)
 
-</body>
+</div>
