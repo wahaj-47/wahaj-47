@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Wahaj
+<body align="center">
+### Hi there 👋, my name is <h1>Wahaj</h1>
 
 ![](surf.gif)
 
@@ -15,3 +16,5 @@ Skills: REACT / REACT NATIVE / JS / HTML / CSS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=wahaj-47)
 
 ![Profile views](https://gpvc.arturio.dev/wahaj-47)
+
+</body>
