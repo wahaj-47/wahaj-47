@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color: black;">
 Hi there 👋, my name is <h1 align="center">Wahaj</h1>
 
 ![](snake.gif)
