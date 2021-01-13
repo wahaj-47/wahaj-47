@@ -1,5 +1,5 @@
 <div align="center" style="background-color: black;">
-Hi there 👋, my name is <h1 align="center">Wahaj</h1>
+Hi there 👋, my name is <h1 align="center" style="background-color: black;">Wahaj</h1>
 
 ![](snake.gif)
 
