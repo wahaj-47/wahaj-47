@@ -5,7 +5,7 @@ Hi there 👋, my name is <h1 align="center" style="background-color: black;">Wa
   
 <h4>Check out my work!</h4>
   
-<a href="https://4sleep.itch.io">![image](https://user-images.githubusercontent.com/8758774/213471867-08629975-03f4-4c7d-bc7c-8f381455c73c.png)</a>
+<a href="https://4sleep.itch.io">![Capture](https://user-images.githubusercontent.com/8758774/213474996-124e5db4-3567-4f0c-81fc-c5020a8f31fc.gif)</a>
 
 
 <p align="center">
