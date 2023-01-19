@@ -2,6 +2,11 @@
 Hi there 👋, my name is <h1 align="center" style="background-color: black;">Wahaj</h1>
   
 ![](snake.gif)
+  
+<h4>Check out my work!</h4>
+  
+![image](https://user-images.githubusercontent.com/8758774/213471867-08629975-03f4-4c7d-bc7c-8f381455c73c.png)
+
 
 <p align="center">
   
