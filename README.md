@@ -28,7 +28,7 @@ Hi there 👋, my name is <h1 align="center" style="background-color: black;">Wa
 
 <h4>Get in touch with me</h4>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='github' height='40'>](https://www.linkedin.com/in/wahaj-hussain-309727144) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/wahaj.hussain.750) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/whaj47/)
+[<img src='icons/linked-in.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/wahaj-hussain-309727144) [<img src='icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/wahaj.hussain.750) [<img src='icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/whaj47/)
 
 ![GitHub metrics](https://metrics.lecoq.io/wahaj-47)
 
