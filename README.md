@@ -4,9 +4,8 @@ Hi there 👋, my name is <h1 align="center" style="background-color: black;">Wa
 <!-- ![](snake.gif) -->
   
 <h4>Check out my work!</h4>
-  
-<a href="https://4sleep.itch.io">![Capture](https://user-images.githubusercontent.com/8758774/213474996-124e5db4-3567-4f0c-81fc-c5020a8f31fc.gif)</a>
 
+<a href="https://4sleep.itch.io">![Capture](https://user-images.githubusercontent.com/8758774/213474996-124e5db4-3567-4f0c-81fc-c5020a8f31fc.gif)</a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt=JS />
