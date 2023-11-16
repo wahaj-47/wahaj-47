@@ -35,6 +35,4 @@ Hi there 👋, my name is <h1 align="center" style="background-color: black;">Wa
 
 ![GitHub metrics](https://metrics.lecoq.io/wahaj-47)
 
-![Profile views](https://gpvc.arturio.dev/wahaj-47)
-
 </div>
