@@ -9,14 +9,11 @@ Hi there 👋, my name is <h1 align="center" style="background-color: black;">Wa
 
 
 <p align="center">
-  
   <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt=JS />
   <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" alt=C++ />
   <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC" alt=C />
   <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt=React />
   <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt=Node />
-  
-  
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt=VSC />
@@ -24,6 +21,10 @@ Hi there 👋, my name is <h1 align="center" style="background-color: black;">Wa
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt=GitHub />
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt=Git />
   <img src="https://img.shields.io/badge/-PowerShell-333333?style=flat&logo=powershell" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Unreal%20Engine-333333?style=flat&logo=unrealengine" alt="Unreal Engine"/>
+  <img src="https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity" alt="Unreal Engine"/>
 </p>
 
 <h4>Get in touch with me</h4>
